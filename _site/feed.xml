@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andrea Margiovanni</title>
+    <description>SMC &amp; DPO, Digital Consultant, AR Specialist, Business Analyst, Web &amp; Security</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 05 Dec 2022 10:12:31 +0100</pubDate>
+    <lastBuildDate>Mon, 05 Dec 2022 10:12:31 +0100</lastBuildDate>
+    <generator>Jekyll v4.2.2</generator><item>
+        <title>Intro</title>
+        <description>&lt;p&gt;This space will be dedicated to long posts (that do not fit into 500 digits), howto’s, and more articulate reflections.&lt;/p&gt;
+
+&lt;p&gt;For the rest, however, I will write in the fediverse, at &lt;a href=&quot;https://margio.de/@andrea&quot;&gt;margio.de/@andrea&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;👋🏻&lt;/p&gt;
+</description><description>&lt;p&gt;This space will be dedicated to long posts (that do not fit into 500 digits), howto’s, and more articulate reflections.&lt;/p&gt;
+</description><pubDate>Mon, 05 Dec 2022 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blog/intro/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/intro/</guid></item></channel>
+</rss>
