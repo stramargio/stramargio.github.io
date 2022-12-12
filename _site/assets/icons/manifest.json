@@ -1,0 +1,73 @@
+{
+  "background_color": "#ffffff",
+  "categories": ["social"],
+  "description": "SMC, DPO, Digital Consultant, Augmented Reality Specialist, Business Analyst, Web & Security. Currently living in 🇮🇹Italy, 🇪🇺Europe.",
+  "display": "standalone",
+  "name": "Andrea Margiovanni",
+  "scope": "https://social.margio.de",
+  "serviceworker": { "src": "/sw.js" },
+  "share_target": {
+    "action": "share",
+    "method": "GET",
+    "params": { "text": "text", "title": "title", "url": "url" }
+  },
+  "icons": [
+    {
+     "src": "https://margiovanni.com/assets/icons/android-icon-36x36.png",
+     "sizes": "36x36",
+     "type": "image\/png",
+     "density": "0.75"
+    },
+    {
+     "src": "https://margiovanni.com/assets/icons/android-icon-48x48.png",
+     "sizes": "48x48",
+     "type": "image\/png",
+     "density": "1.0"
+    },
+    {
+     "src": "https://margiovanni.com/assets/icons/android-icon-72x72.png",
+     "sizes": "72x72",
+     "type": "image\/png",
+     "density": "1.5"
+    },
+    {
+     "src": "https://margiovanni.com/assets/icons/android-icon-96x96.png",
+     "sizes": "96x96",
+     "type": "image\/png",
+     "density": "2.0"
+    },
+    {
+     "src": "https://margiovanni.com/assets/icons/android-icon-144x144.png",
+     "sizes": "144x144",
+     "type": "image\/png",
+     "density": "3.0"
+    },
+    {
+     "src": "https://margiovanni.com/assets/icons/android-icon-192x192.png",
+     "sizes": "192x192",
+     "type": "image\/png",
+     "density": "4.0"
+    }
+   ],
+  "shortcuts": [
+    {
+      "icons": [{ "sizes": "192x192", "src": "/images/shortcuts/search.png" }],
+      "name": "Search",
+      "url": "/search"
+    },
+    {
+      "icons": [
+        { "sizes": "192x192", "src": "/images/shortcuts/notifications.png" }
+      ],
+      "name": "Notifications",
+      "url": "/notifications"
+    },
+    {
+      "icons": [{ "sizes": "192x192", "src": "/images/shortcuts/chats.png" }],
+      "name": "Chats",
+      "url": "/chats"
+    }
+  ],
+  "start_url": "/",
+  "theme_color": "#ffffff"
+}
