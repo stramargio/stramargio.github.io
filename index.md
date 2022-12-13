@@ -3,7 +3,7 @@ layout: default
 title: Hello
 ---
 
-#### margio@ganymede:~$ whoami
+### About me
 
 SMC, DPO, Digital Consultant, Augmented Reality Specialist, Business Analyst, Web & Security.
 
@@ -11,7 +11,7 @@ Currently living in Italy, Europe.
 
 Actually in love with a beautiful wife and a fluffy cat.
 
-#### margio@ganymede:~$ cat contact.txt
+### Keep in touch
 
 Say me "hello!" at <a href="mailto:andrea@margiovanni.com">andrea@margiovanni.com</a> or feel free to reach me out on <a rel="me" href="https://margio.de/@andrea">Fediverse</a>.
 
