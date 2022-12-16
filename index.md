@@ -15,7 +15,7 @@ Actually in love with a beautiful wife and a fluffy cat.
 
 ### Keep in touch
 
-Say me "hello!" at <a href="mailto:andrea@margiovanni.com">andrea@margiovanni.com</a> or feel free to reach me out on <a rel="me" href="https://words.margio.de/@andrea">Fediverse</a>.
+Say me "hello!" at <a href="mailto:andrea@margiovanni.com">andrea@margiovanni.com</a> or feel free to reach me out on <a rel="me" href="https://words.margio.de/andrea">Fediverse</a>.
 
 If you're even more curious, you can find my shots on <a href="http://pixelfed.social/stramargio">Pixelfed</a>.
 
