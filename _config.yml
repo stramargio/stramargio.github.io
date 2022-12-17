@@ -7,12 +7,17 @@ description: SMC, DPO, Digital Consultant, Augmented Reality Specialist, Busines
 url: "https://margio.de" # the base hostname & protocol for your site
 # host: 0.0.0.0
 
+mastodon:
+  username: andrea
+  instance: words.margio.de
+
 
 #########################
 # more settings
 
 plugins:
   - jekyll-redirect-from
+  - jekyll/mastodon_webfinger
 
 whitelist:
   - jekyll-redirect-from
