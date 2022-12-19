@@ -1,0 +1,25 @@
+{
+    "subject":"acct:andrea@words.margio.de",
+    "aliases":
+    [
+        "https://words.margio.de/@andrea",
+        "https://words.margio.de/users/andrea"
+    ],
+    "links":
+    [
+        {
+            "rel":"http://webfinger.net/rel/profile-page",
+            "type":"text/html",
+            "href":"https://margio.de/@andrea"
+        },
+        {
+            "rel":"self",
+            "type":"application/activity+json",
+            "href":"https://words.margio.de/users/andrea"
+        },
+        {
+            "rel":"http://ostatus.org/schema/1.0/subscribe",
+            "template":"https://words.margio.de/authorize_interaction?uri={uri}"
+        }
+    ]
+}
