@@ -15,34 +15,10 @@ Actually in love with a beautiful wife and a fluffy cat.
 
 ### Keep in touch
 
-Say me "hello!" at <a href="mailto:andrea@margiovanni.com">andrea@margiovanni.com</a> or feel free to reach me out on <a rel="me" href="https://infosec.exchange/@stramargio">Fediverse</a>.
+Say me "hello!" at <a href="mailto:andrea@margiovanni.com">andrea@margiovanni.com</a>, feel free to follow me on <a rel="me" href="https://infosec.exchange/@stramargio">Fediverse</a> or subscribe to my <a href="http://infosec.exchange/@stramargio.rss">Social RSS feed</a>.
 
 If you're even more curious, you can find my shots on <a href="http://pixelfed.social/stramargio">Pixelfed</a>.
 
-Do you prefer to use a secure chat? You can also find me on <a href="imessage://andrea@margiovanni.com">iMessage</a>.
+Do you feel more comfortable using secure chat to communicate? Then, you can write me a line on <a href="imessage://andrea@margiovanni.com">iMessage</a>.
 
-Do you need an advice? Do you want to contact me for a job offer? Here is the link to my LinkedIn profile: <a href="http://linkedin.com/in/margio/">in/margio</a>.
-
-<br />
-
-### My writings {#writings}
-
-Here are my writings, mostly personal and non-technical, some in Italian and some in English.
-
-<ul class="blog-posts">
-    {% for post in site.posts %}
-    {% for tag in post.tags %}
-    <li>
-        <span>
-            <i>
-                <time datetime="2022-01-28" pubdate="">
-                    {{ post.date | date: "%b %-d, %Y" }}
-                </time>
-            </i>
-        </span>
-        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-    </li>
-    {% endfor %}
-    {% endfor %}
-
-</ul>
+If you need an advice or if you want to contact me for a job offer, here is the link to my LinkedIn profile: <a href="http://linkedin.com/in/margio/">in/margio</a>.
