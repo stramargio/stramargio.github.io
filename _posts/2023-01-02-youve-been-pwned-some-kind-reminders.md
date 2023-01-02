@@ -28,3 +28,6 @@ Even knowing what your primary language is is an information that can come in ha
 
 ### For payments, try to use ApplePay or GooglePay whenever possible
 If breach history has a value (and it does), with Apple and Google handling your payments you can be reasonably comfortable.
+
+### Don't use (ever!) your phone number for 2FA
+Number reassigning and SIM swap are real problems. So, try to use a 2FA codes manager or (better!) a [phisical security key](https://www.nytimes.com/wirecutter/reviews/best-security-keys/).  
