@@ -4,12 +4,11 @@
     <title>Andrea Margiovanni</title>
     <description>SMC, DPO, Digital Consultant, Augmented Reality Specialist, Business Analyst, Web &amp; Security.</description>
     <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 02 Jan 2023 08:55:11 +0100</pubDate>
-    <lastBuildDate>Mon, 02 Jan 2023 08:55:11 +0100</lastBuildDate>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 02 Jan 2023 08:58:04 +0100</pubDate>
+    <lastBuildDate>Mon, 02 Jan 2023 08:58:04 +0100</lastBuildDate>
     <generator>Jekyll v4.3.1</generator>
     
-     
       <item>
         <title>Pwned</title>
         <description>&lt;p&gt;Oggi ho ricevuto una simpatica email da &lt;em&gt;Have I Been Pwned&lt;/em&gt;, per cominciare l’anno nuovo con slancio.&lt;/p&gt;
@@ -20,9 +19,7 @@
         <link>/blog/pwned</link>
         <guid isPermaLink="true">/blog/pwned</guid>
       </item>
-      
     
-     
       <item>
         <title>Global town square is a very bad thing</title>
         <description>&lt;p&gt;Per più di 10 anni ci hanno convinto che i social network globali e mainstream fossero il futuro. Il problema è che erano &lt;strong&gt;il futuro che loro volevano&lt;/strong&gt;.&lt;/p&gt;
@@ -32,9 +29,7 @@
         <link>/blog/global-town-square-is-a-very-bad-thing</link>
         <guid isPermaLink="true">/blog/global-town-square-is-a-very-bad-thing</guid>
       </item>
-      
     
-     
       <item>
         <title>Restart</title>
         <description>&lt;p&gt;After a few years I felt the need to rebuild my space away from centralized social media, where I could write about both technical and personal topics.&lt;/p&gt;
@@ -47,7 +42,6 @@
         <link>/blog/restart</link>
         <guid isPermaLink="true">/blog/restart</guid>
       </item>
-      
     
   </channel>
 </rss>
