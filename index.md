@@ -19,6 +19,6 @@ Say me "hello!" at <a href="mailto:andrea@margiovanni.com">andrea@margiovanni.co
 
 If you're even more curious, you can find my shots on <a href="http://pixelfed.social/stramargio">Pixelfed</a>.
 
-Do you feel more comfortable using secure chat to communicate? Then, you can write me a line on <a href="imessage://andrea@margiovanni.com">iMessage</a>.
+Do you feel more comfortable using secure chat to communicate? Then, you <a href="mailto:chat@margiovanni.com?subject=Session%20or%20iMessage%20request&body=Hi!%20I%20would%20like%20to%20chat%20with%20you%20on%20Session%20or%20iMessage.">ask me</a> for Session ID or iMessage handle.
 
 If you need an advice or if you want to contact me for a job offer, here is the link to my LinkedIn profile: <a href="http://linkedin.com/in/margio/">in/margio</a>.
