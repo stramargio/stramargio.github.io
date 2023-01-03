@@ -3,10 +3,10 @@
   <channel>
     <title>Andrea Margiovanni</title>
     <description>SMC, DPO, Digital Consultant, Augmented Reality Specialist, Business Analyst, Web &amp; Security.</description>
-    <link>http://localhost:4000/</link>
+    <link>https://margio.de/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 02 Jan 2023 11:43:52 +0100</pubDate>
-    <lastBuildDate>Mon, 02 Jan 2023 11:43:52 +0100</lastBuildDate>
+    <pubDate>Mon, 02 Jan 2023 20:18:35 +0100</pubDate>
+    <lastBuildDate>Mon, 02 Jan 2023 20:18:35 +0100</lastBuildDate>
     <generator>Jekyll v4.3.1</generator>
     
       <item>
@@ -21,7 +21,7 @@
 &lt;p&gt;Instead of using the same email everywhere, use a &lt;em&gt;catch-all email&lt;/em&gt; or a handy service to have random emails forwarded to your real email address: I’m thinking of Apple’s &lt;a href=&quot;https://support.apple.com/en-us/HT210425&quot;&gt;Hide My Email&lt;/a&gt; or &lt;a href=&quot;https://relay.firefox.com&quot;&gt;Firefox Relay&lt;/a&gt;, for example. This way you can disable the disposable mailname at any time (or you can notice some breaches before they are published): I mean, if you use the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;sumo_01welfare@icloud.com&lt;/code&gt; address just for Spotify and start getting spam and advertisements on that address you will know immediately who lost/sold your data.&lt;/p&gt;
 
 &lt;h3 id=&quot;use-a-proxy-or-a-vpn-you-can-trust&quot;&gt;Use a proxy or a VPN you can trust&lt;/h3&gt;
-&lt;p&gt;My advice is to use iCloud Private Relay or a very reliable VPN (I use &lt;a href=&quot;https://airvpn.org&quot;&gt;AirVPN&lt;/a&gt; when I need it). Don’t use - please don’t! - any of the overly commercial VPNs that infest youtube with advertisements 👀. IP address (even if under a NAT) can be used in many ways, so try to avoid revealing it to others.&lt;/p&gt;
+&lt;p&gt;My advice is to use &lt;a href=&quot;https://support.apple.com/en-us/HT212614&quot;&gt;iCloud Private Relay&lt;/a&gt; or a very reliable VPN (I use &lt;a href=&quot;https://airvpn.org&quot;&gt;AirVPN&lt;/a&gt; when I need it). Don’t use - please don’t! - any of the overly commercial VPNs that infest youtube with advertisements 👀. IP address (even if under a NAT) can be used in many ways, so try to avoid revealing it to others.&lt;/p&gt;
 
 &lt;h3 id=&quot;do-not-reveal-your-name-or-your-real-date-of-birth&quot;&gt;Do not reveal your name or your real date of birth…&lt;/h3&gt;
 &lt;p&gt;…Unless it is strictly necessary to be recognizable: this way, you will reduce the capacity for impersonation by evil actors.&lt;/p&gt;
@@ -34,6 +34,9 @@
 
 &lt;h3 id=&quot;for-payments-try-to-use-applepay-or-googlepay-whenever-possible&quot;&gt;For payments, try to use ApplePay or GooglePay whenever possible&lt;/h3&gt;
 &lt;p&gt;If breach history has a value (and it does), with Apple and Google handling your payments you can be reasonably comfortable.&lt;/p&gt;
+
+&lt;h3 id=&quot;dont-use-ever-your-phone-number-for-2fa&quot;&gt;Don’t use (ever!) your phone number for 2FA&lt;/h3&gt;
+&lt;p&gt;Number reassigning and SIM swap are real problems. So, try to use a 2FA codes manager or (better!) a &lt;a href=&quot;https://www.nytimes.com/wirecutter/reviews/best-security-keys/&quot;&gt;phisical security key&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Mon, 02 Jan 2023 07:30:00 +0100</pubDate>
         <link>/blog/youve-been-pwned-some-kind-reminders</link>
