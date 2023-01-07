@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hello
+title: Andrea Margiovanni
 ---
 
 ### About me
@@ -15,13 +15,13 @@ Actually in love with a beautiful wife and a fluffy cat.
 
 ### Keep in touch
 
-Say me "hello!" at <a href="mailto:andrea@margiovanni.com">andrea@margiovanni.com</a>, feel free to follow me on <a rel="me" href="https://infosec.exchange/@stramargio">Fediverse</a> or subscribe to my <a href="http://infosec.exchange/@stramargio.rss">Social RSS feed</a>.
+Say me "hello!" at <a href="mailto:andrea@margiovanni.com">andrea@margiovanni.com</a>, feel free to follow me on <a rel="me" href="https://infosec.exchange/@stramargio">Fediverse</a> or subscribe to my <a href="https://infosec.exchange/@stramargio.rss">Social RSS feed</a>.
 
 If you're even more curious, you can find my shots on <a href="http://pixelfed.social/stramargio">Pixelfed</a>.
 
-Do you feel more comfortable using secure chat to communicate? Then, you <a href="mailto:chat@margiovanni.com?subject=Session%20or%20iMessage%20request&body=Hi!%20I%20would%20like%20to%20chat%20with%20you%20on%20Session%20or%20iMessage.">ask me</a> for Session ID or iMessage handle.
+Do you feel more comfortable using secure chat to communicate? Then, you can <a href="mailto:chat@margiovanni.com?subject=Session%20or%20iMessage%20request&body=Hi!%20I%20would%20like%20to%20chat%20with%20you%20on%20Session%20or%20iMessage.">ask me</a> for Session ID or iMessage handle.
 
-If you need an advice or if you want to contact me for a job offer, here is the link to my LinkedIn profile: <a href="http://linkedin.com/in/margio/">in/margio</a>.
+If you need an advice or if you want to contact me for a job offer, here is the link to my LinkedIn profile: <a href="https://linkedin.com/in/margio/">in/margio</a>.
 
 <br />
 
