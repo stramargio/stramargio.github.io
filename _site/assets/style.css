@@ -1,7 +1,7 @@
-@import url(https://fonts.bunny.net/css?family=encode-sans-semi-expanded:300,700);
+@import url(https://fonts.bunny.net/css?family=merriweather-sans:300,700);
 
 body {
-    font-family: 'Encode Sans Semi Expanded', sans-serif;
+    font-family: 'Merriweather Sans', sans-serif;
     /*font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";*/
     margin: auto;
     padding: 20px;
