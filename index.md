@@ -26,6 +26,7 @@ If you need an advice or if you want to contact me for a job offer, here is the 
 <br />
 
 ### Writings {#writings}
+
 <ul class="blog-posts">
     {% for post in site.posts %}
     <li>
