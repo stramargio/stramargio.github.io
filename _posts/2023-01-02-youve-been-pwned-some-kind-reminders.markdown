@@ -5,7 +5,7 @@ date:   2023-01-02 06:30:00
 tags: [general]
 ---
 
-![Screenshot of an email from HIBP](/images/20230102-pwned.png)
+![Screenshot of an email from HIBP](https://raw.githubusercontent.com/stramargio/stramargio.github.io/main/images/20230102-pwned.png)
 
 Today I received a nice email from [Have I Been Pwned](https://haveibeenpwned.com), to start the New Year with momentum: the email refers to [this data breach](https://restoreprivacy.com/music-service-deezer-data-breach/).
 
@@ -37,4 +37,6 @@ If breach history has a value (and it does), with Apple and Google handling your
 
 ### Don't use (ever!) your phone number for 2FA
 
-Number reassigning and SIM swap are real problems. So, try to use a 2FA codes manager or (better!) a [phisical security key](https://www.nytimes.com/wirecutter/reviews/best-security-keys/).  
+Number reassigning and SIM swap are real problems. So, try to use a 2FA codes manager or (better!) a [phisical security key](https://www.nytimes.com/wirecutter/reviews/best-security-keys/). 
+
+Wanna discuss 'bout this topic? Do it on <a rel="me" href="https://vmst.io/@margio">Mastodon</a>.
