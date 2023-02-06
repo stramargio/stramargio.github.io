@@ -15,7 +15,7 @@ Innamorato di una splendida moglie e di un gatto pigro.
 
 ### Teniamoci in contatto
 
-Dimmi "ciao!" all'indirizzo e-mail <a href="mailto:andrea@margiovanni.com">andrea@margiovanni.com</a> e sentiti liberə di seguirmi nel <a rel="me" href="https://infosec.place/margio">Fediverso</a>.
+Dimmi "ciao!" all'indirizzo e-mail <a href="mailto:andrea@margiovanni.com">andrea@margiovanni.com</a>.
 
 Se sei più curiosə, puoi trovare i miei scatti su <a href="http://pixelfed.social/stramargio">Pixelfed</a>.
 
