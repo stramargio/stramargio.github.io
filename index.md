@@ -5,26 +5,26 @@ title: Andrea Margiovanni
 
 ### Chi sono
 
-SMC, DPO, consulente digitale, augmented reality specialist (principalmente Hololens), business analyst, web & sicurezza.
+SMC, DPO, digital consultant, augmented reality specialist (mainly Hololens), business analyst, web & security.
 
-Al momento vivo in Italia, Europa.
+I am currently living in Italy, Europe.
 
-Innamorato di una splendida moglie e di un gatto pigro.
+In love with a beautiful wife and a lazy cat.
 
 <br />
 
 ### Teniamoci in contatto
 
-Dimmi "ciao!" all'indirizzo e-mail <a href="mailto:andrea@margiovanni.com">andrea@margiovanni.com</a>.
+Say me "ciao!" at <a href="mailto:andrea@margiovanni.com">andrea@margiovanni.com</a>.
 
-Se sei più curiosə, puoi trovare i miei scatti su <a href="http://pixelfed.social/stramargio">Pixelfed</a>.
+If you are more curious, you can find my shots on <a href="http://pixelfed.social/stramargio">Pixelfed</a>.
 
-Ti senti più a tuo agio ad usare mezzi di comunicazione sicuri? Allora puoi <a href="mailto:chat@margiovanni.com?subject=Session%20or%20iMessage%20request&body=Hi!%20I%20would%20like%20to%20chat%20with%20you%20on%20Session%20or%20iMessage.">richiedermi</a> l'handle di iMessage.
+Do you feel more comfortable using secure messaging? Then, feel free to <a href="mailto:chat@margiovanni.com?subject=Session%20or%20iMessage%20request&body=Hi!%20I%20would%20like%20to%20chat%20with%20you%20on%20Session%20or%20iMessage.">ask me</a> my iMessage handle.
 
-Se hai bisogno di una consulenza o stai cercando qualcuno da assumere in campo IT, ecco il link al mio profilo LinkedIn: <a href="https://linkedin.com/in/margio/">in/margio</a>.
+If you need advice or you're looking for someone to hire in the IT team, here is a link to my LinkedIn profile: <a href="https://linkedin.com/in/margio/">in/margio</a>.
 
 <br />
 
 ### Social
 
-Per leggere i miei post ed interagire con me nel Fediverso, segui l'account <strong>andrea@margio.ddns.net</strong>.
+To read my posts and interact with me in the Fediverse, follow the account <strong>andrea@margio.ddns.net</strong>.
