@@ -27,4 +27,4 @@ If you need advice or you're looking for someone to hire in the IT team, here is
 
 ### Social
 
-To read my posts and interact with me in the Fediverse, <a class="fediverse-follow" data-followtype="direct" data-account="@andrea@margio.ddns.net" href="#">follow me</a>.
+To read my posts and interact with me in the Fediverse, follow the account <strong>andrea@margio.ddns.net</strong>.
