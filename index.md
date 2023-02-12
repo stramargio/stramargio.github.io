@@ -3,7 +3,7 @@ layout: default
 title: Andrea Margiovanni
 ---
 
-### Chi sono
+### Who am I?
 
 SMC, DPO, digital consultant, augmented reality specialist (mainly Hololens), business analyst, web & security.
 
@@ -13,7 +13,7 @@ In love with a beautiful wife and a lazy cat.
 
 <br />
 
-### Teniamoci in contatto
+### Let's keep in touch
 
 Say me "ciao!" at <a href="mailto:andrea@margiovanni.com">andrea@margiovanni.com</a>.
 
