@@ -15,7 +15,7 @@ In love with a beautiful wife and a lazy cat.
 
 ## Social
 
-To read my posts and interact with me in the Fediverse, follow the account <strong>andrea@margio.ddns.net</strong>.
+To read my posts and interact with me in the Fediverse, remote-follow me here: [margio.ddns.net/andrea](https://margio.ddns.net/andrea).
 
 For long readings, you can find my posts on my blog: [words.margiovanni.com](https://words.margiovanni.com)
 
