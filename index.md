@@ -5,23 +5,21 @@ title: Andrea Margiovanni
 
 ## Who am I?
 
-Born at a very young age. 'Am doing IT stuffs. 
+Born at a very young age. 'Am doing IT stuffs.
 
-SMC, DPO, digital consultant, augmented reality specialist (mainly Hololens), business analyst, web & security. 
+SMC, DPO, digital consultant, augmented reality specialist (mainly Hololens), business analyst, web & security.
 
-Currently living in Italy, Europe. 
+Currently living in Italy, Europe.
 
 In love with a beautiful wife and a lazy cat.
 
 ## Social
 
-To read my posts and interact with me in the Fediverse, remote-follow me here: [margio.ddns.net/andrea](https://margio.ddns.net/andrea).
-
-For long readings, you can find my posts on my blog: [words.margiovanni.com](https://words.margiovanni.com)
+To read my posts and interact with me in the Fediverse, remote-follow me here: [margio.ddns.net/andrea](https://margio.de/@andrea).
 
 ## Let's keep in touch
 
-Say me "ciao!" at <a href="mailto:andrea@margiovanni.com">andrea@margiovanni.com</a>.
+Say me "ciao!" at <a href="mailto:andrea@margiovanni.com">andrea@margio.de</a>.
 
 If you are more curious, you can find my shots on <a href="http://pixelfed.social/stramargio">Pixelfed</a>.
 
