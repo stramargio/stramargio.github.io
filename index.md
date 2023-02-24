@@ -15,11 +15,11 @@ In love with a beautiful wife and a lazy cat.
 
 ## Social
 
-To read my posts and interact with me in the Fediverse, remote-follow me here: [margio.ddns.net/andrea](https://margio.de/@andrea).
+To read my posts and interact with me in the Fediverse, remote-follow me here: [margio.de/@andrea](https://margio.de/@andrea).
 
 ## Let's keep in touch
 
-Say me "ciao!" at <a href="mailto:andrea@margiovanni.com">andrea@margio.de</a>.
+Say me "ciao!" at <a href="mailto:andrea@margio.de">andrea@margio.de</a>.
 
 If you are more curious, you can find my shots on <a href="http://pixelfed.social/stramargio">Pixelfed</a>.
 
