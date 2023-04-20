@@ -15,7 +15,7 @@ SMC, DPO, digital consultant, augmented reality specialist (mainly Hololens), bu
 
 ## Let's keep in touch
 
-Say me "ciao!" at <a href="mailto:andrea@margiovanni.com">andrea@margiovanni.com</a> or follow me <a href="https://hachyderm.io/@margio">in the Fediverse</a>.
+Say me "ciao!" at <a href="mailto:andrea@margiovanni.com">andrea@margiovanni.com</a> or follow me <a rel="me" href="https://hachyderm.io/@margio">in the Fediverse</a>.
 
 Do you feel more comfortable using (in)secure messaging? Then, feel free to <a href="mailto:chat@margiovanni.com?subject=Session%20or%20iMessage%20request&body=Hi!%20I%20would%20like%20to%20chat%20with%20you%20on%20Session%20or%20iMessage.">ask</a> for my iMessage handle.
 
