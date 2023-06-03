@@ -1,0 +1,41 @@
+body {
+    background: var(--white1);
+    color: var(--bg);
+}
+
+header a h1 {
+    color: var(--bg);
+}
+
+.profile .header {
+    background-color: #efefef;
+}
+
+.profile .header .basic-info .username {
+    color: var(--blue1);
+}
+
+.profile .about-user, .profile .col-header, .profile .about-user .bio, .profile .about-user .fields, .toot.expanded, .toot:last-child, .toot:last-child .info {
+    background-color: #efefef;
+}
+
+.profile .about-user .accountstats, .toot {
+    background: #efefef;
+}
+
+.profile .toots .toot, .toot {
+    border: none;
+}
+
+.toot.expanded .info, .toot:last-child .info, .toot .info {
+    background: #efefef;
+    border-top: 1px dotted #ccc;
+}
+
+a, .toot .text a, .toot .author > a .username {
+    color: var(--blue1);
+}
+
+.toot {
+    margin-bottom: 26px;
+}
