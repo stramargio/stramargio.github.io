@@ -15,7 +15,7 @@ header a h1 {
     color: var(--blue1);
 }
 
-.profile .about-user, .profile .col-header, .profile .about-user .bio, .profile .about-user .fields, .toot.expanded, .toot:last-child, .toot:last-child .info {
+.profile .col-header, .profile .about-user .bio, .profile .about-user .fields, .toot.expanded, .toot:last-child, .toot:last-child .info {
     background-color: #efefef;
 }
 
